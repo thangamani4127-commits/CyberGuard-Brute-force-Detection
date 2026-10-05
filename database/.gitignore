@@ -1,0 +1,14 @@
+# XAMPP
+xampp/
+*.log
+
+# PHP
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
